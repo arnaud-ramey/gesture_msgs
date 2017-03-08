@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<gestures>
+	<gesture keytime="10" joint_name="joint1" joint_value="1"/>
+	<gesture keytime="0" joint_name="joint2" joint_value="0"/>
+	<gesture keytime="0.5" joint_name="joint1" joint_value="0.5"/>
+	<gesture keytime="2" joint_name="joint2" joint_value="1"/>
+	<gesture keytime="1" joint_name="joint2" joint_value="1"/>
+</gestures>
+

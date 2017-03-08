@@ -1,6 +1,6 @@
-# gesture_player_msgs
+# gesture_msgs
 
-[![Build Status](https://travis-ci.org/arnaud-ramey/gesture_player_msgs.svg)](https://travis-ci.org/arnaud-ramey/gesture_player_msgs)
+[![Build Status](https://travis-ci.org/arnaud-ramey/gesture_msgs.svg)](https://travis-ci.org/arnaud-ramey/gesture_msgs)
 
 Contains the required messages for generating gestures on robots with several degrees of freedom.
 There are several ways to use the gestures:
@@ -33,10 +33,10 @@ msg.data = "flori_yes_mute";
 pub.publish(msg);
 ```
 
-  The gesture are in `"gesture_player_msgs/data/"`, you can list them with:
+  The gesture are in `"gesture_msgs/data/"`, you can list them with:
 
 ```bash
-$ rosls gesture_player_msgs/data/ -1
+$ rosls gesture_msgs/data/ -1
 ```
 
 
